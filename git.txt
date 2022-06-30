@@ -1,0 +1,9 @@
+How to handle the git & github in MAC 
+
+1. Create the README.md file in repository 
+2. Designate folder(cd location) to clone the README file from the repository in terminal
+3. Write the command "git clone https://github.com/username/reponame.git" in terminal
+4. Work in the VScode
+
+5. Git push and any other command is handled in "Source Control" in VScode
+6. If you want to open new folder in local repository, open new VScode and designate folder
